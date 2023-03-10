@@ -28,11 +28,11 @@ class ViewController: UIViewController {
         Nuke.loadImage(with: movie.artworkUrl100, into: movieImageView)
 
         // Set labels with the associated track values.
-        overView.text = movie.overView
-        movieNameLabel.text = movie.movieName
-        votesAverage.text = movie.voteAverage
-        votes.text = movie.vote
-        popularity.text = movie.popularity
+        overView.text = movie.overview
+        movieNameLabel.text = movie.title
+        votesAverage.text = "Vote Average " + String(movie.vote_average)
+        votes.text = "Votes " + String(movie.vote_count)
+        popularity.text = "Popularity " + String(movie.popularity)
 //
 //        // Create a date formatter to style our date and convert it to a string
 //        let dateFormatter = DateFormatter()
