@@ -42,7 +42,7 @@ GIF created with recordit
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a problem with importing Nuke and the view controller. The constraints of the elements in the view controller and the backend of the view controller
 
 ## License
 
