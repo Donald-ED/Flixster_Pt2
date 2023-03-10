@@ -1,5 +1,5 @@
 # Project 2 - Flixster
-Submitted by: Donald Echeuf
+Submitted by: Donald Echefu
 
 Flixster is a movie browsing app that shows a movie and its popularity, voting average and number of votes 
 
