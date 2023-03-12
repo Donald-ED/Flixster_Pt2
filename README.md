@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![9yih8GPF3w](https://user-images.githubusercontent.com/55097668/224517469-bbe9aea2-c9ea-42fc-944f-c3d89c038257.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Recordit 
