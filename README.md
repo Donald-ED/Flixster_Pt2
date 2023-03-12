@@ -1,25 +1,23 @@
-# Project 2 - Flixster
+# Project 3 - Flixster Pt 2
+
 Submitted by: Donald Echefu
 
-Flixster is a movie browsing app that shows a movie and its popularity, voting average and number of votes 
+**Name of your app** is an app that introduces networking ... [TODO] 
 
-Time spent: 9 hours spent in total
+Time spent: **X** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] Users are able to see a customized app icon and launch screen
-- [x] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [x] Displays at least 5 different movies in a table view
-- [x] Can tap into detail view of movie with a full description, backdrop image, and title
+- [x] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [x] App has a collection view with the same list of movies
+- [x] Uses a tab bar controller to switch between collection view and table view screens
  
 The following **optional** features are implemented:
 
-- [ ] Unique UI changes, such as background, font/color changes, etc.
-- [ ] User implements a collection view
-- [ ] User implemenets tab bar controller with at least two screens
+- [ ] Make an additional network call to another end-point.	
+- [x] Allow users to scroll when context items are off-screen (table view implemention)
 
 The following **additional** features are implemented:
 
@@ -29,12 +27,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
-https://user-images.githubusercontent.com/55097668/224235579-effcf2e7-cbfb-4572-909c-8a68b7be02e5.mp4
-
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with recordit
+GIF created with Recordit 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -42,7 +38,7 @@ GIF created with recordit
 
 ## Notes
 
-I had a problem with importing Nuke and the view controller. The constraints of the elements in the view controller and the backend of the view controller
+I had problem getting the image url and also making the segue to the detail view controller
 
 ## License
 
